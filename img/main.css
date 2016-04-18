@@ -1,0 +1,135 @@
+body {   
+	margin-top: 0px;	
+	margin-bottom: 0px;
+	background-position: left top;
+	margin-right: 0px;
+	margin-left: 0px;
+	background-attachment: fixed;
+	color:#000000;
+	font-size:12px;
+	
+}
+
+a:link{color:#0f0f0f;text-decoration:none;}
+a:visited{color:#0f0f0f;space;text-decoration:none;}
+a:hover{color:#C50400;text-decoration:none;}
+a:active{color:#0f0f0f;text-decoration:none;}
+
+/*×ÖÌå*/
+.zt1{
+font-family:"Î¢ÈíÑÅºÚ";
+font-size:28px;
+color:#000000;}
+
+.zt2{
+font-family:"Î¢ÈíÑÅºÚ";
+font-size:18px;
+color:#1153a4;
+line-height:32px;}
+
+.zt3{
+text-indent:2em;
+font-size:14px;
+line-height:26px;
+}
+.zt4{
+font-size:14px;
+color:#FFFFFF;
+font-weight:bold;
+padding-left:40px;
+}
+.zt5{
+text-indent:2em;
+font-size:12px;
+line-height:22px;
+}
+.zt6{
+font-size:12px;
+line-height:22px;
+}
+.zt7{
+font-size:14px;
+}
+.zt8{
+font-size:14px;
+color:#666666;
+font-weight:bold;
+padding-left:30px;
+}
+.zt9{
+font-size:12px;
+font-weight:bold;
+color:#FFFFFF;
+padding-left:20px;
+}
+/*Ê×Ò³*/
+.top{
+background:url(top-bj.jpg) left top repeat-x;
+height:31px;
+font-size:12px;
+}
+.bj{
+background:url(bj.jpg) left top repeat-x;
+}
+.nav{
+background:url(nav_bj.jpg)  left top repeat-x;
+height:40px;
+font-family:"Î¢ÈíÑÅºÚ";
+font-size:18px;
+color:#FFFFFF;
+}
+.nav a:link{color:#ffffff;text-decoration:none;}
+.nav a:visited{color:#ffffff;text-decoration:none;}
+.nav a:hover{ color:#f5ee36;text-decoration:none;}
+.nav a:active{color:#ffffff;text-decoration:none;}
+
+.nav_bj{
+background:url(nav-1bj.jpg) left top repeat-x;
+height:31px;
+}
+.sjj{
+margin-top:8px;}
+.sxjj{
+margin-top:8px;
+margin-bottom:8px;}
+.tt{
+border:1px solid #dedede;
+background:url(ttbj.jpg) left top repeat-x;
+height:93px;
+ }
+.bk{
+ border:1px solid #dadada;
+ border-top:0px;
+ }
+.bt{
+background:url(nrbt.jpg) left top no-repeat;
+height:27px;
+}
+.rmwz{
+background:url(rmwz-l.jpg) right top no-repeat;
+height:62px;
+width:261px;
+}
+.di{
+background:url(dt.jpg) left top no-repeat;
+height:117px;
+}
+
+/*¶þ¼¶*/
+.l_lm{
+background:url(l_bt.jpg) left top no-repeat;
+height:29px;
+width:219px;
+}
+.l_an{
+background:url(l_an.jpg) left top no-repeat;
+height:30px;
+width:191px;
+margin-top:8px;
+margin-bottom:8px;}
+.r_sy{
+background:url(r_sy.jpg) left top no-repeat;
+height:30px;}
+.jj{
+margin-top:30px;
+margin-top:20px;}
