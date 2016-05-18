@@ -110,6 +110,7 @@ a:hover {
 	}
 .bj {
 	width: 100%;
+	min-width:1036px;
 	min-height: 700px;
 	overflow:hidden;
 	height:auto;
